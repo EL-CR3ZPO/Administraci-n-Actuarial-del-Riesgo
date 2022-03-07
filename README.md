@@ -1,5 +1,23 @@
-# Administracion-Actuarial-del-Riesgo
+#  Administración Actuarial del Riesgo 2022-2
+# ☕
 
-☕
+Grupo 9243 🏫
 
-This is a repository for Actuarial Risk Administration course 
+Profesor: José Enrique Pérez Salvador
+
+Ayudante:	Carlos Alberto Espinosa Cañizares
+
+Ayudante:	Eric Daniel Hernández Jardón
+
+
+
+Equipo: 🖥️ 🖱️
+
+
+Crespo Bravo Gerardo 
+crespo_28@ciencias.unam.mx
+
+
+# Notas 
+🥇
+
