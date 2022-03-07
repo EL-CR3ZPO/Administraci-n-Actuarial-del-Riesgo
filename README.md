@@ -1,2 +1,5 @@
-# Administraci-n-Actuarial-del-Riesgo
+# Administracion-Actuarial-del-Riesgo
+
+☕
+
 This is a repository for Actuarial Risk Administration course 
